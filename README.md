@@ -1,1 +1,1 @@
-# Java101-Unit-2
+Java 101 2. Ünite pratik ve ödevlerini içermektedir.
