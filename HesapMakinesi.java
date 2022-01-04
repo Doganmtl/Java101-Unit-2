@@ -22,9 +22,6 @@ public class HesapMakinesi {
 		System.out.print("Lütfen işlem seçiminizi yapınız: ");
 		select = input.nextInt();
 		
-		if (n2 == 0) {
-			System.out.print("Bir sayı sıfıra bölünemez.");
-		} 
 		
 		switch(select) {
 		
